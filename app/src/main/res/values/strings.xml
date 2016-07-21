@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearnClipBoard</string>
+    <string name="action_settings">Settings</string>
+    <string name="decrypt">Decrypt Mode </string>
+    <string name="decryptActivity">Decrypt</string>
+    <string name="encrypt">Encrypt Mode</string>
+    <string name="encryptActivity">Encrypt</string>
+    <string name="hint">Enter Message here</string>
+    <string name="hint2">Enter Encrypted Message </string>
+</resources>
+
